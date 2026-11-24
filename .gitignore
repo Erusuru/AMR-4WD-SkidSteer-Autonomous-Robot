@@ -1,0 +1,28 @@
+# Android & Gradle build artifacts / secrets
+local.properties
+.gradle/
+**/build/
+*.apk
+*.aab
+*.jks
+*.keystore
+*.iml
+.idea/
+captures/
+
+# PlatformIO / ESP32 build artifacts
+.pio/
+.vscode/
+
+# Python cache & model weights
+__pycache__/
+*.py[cod]
+*.pt
+*.pth
+*.bin
+*.weights
+*.model
+
+# OS files
+.DS_Store
+Thumbs.db

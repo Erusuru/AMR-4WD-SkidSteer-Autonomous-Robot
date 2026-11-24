@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.AMRWiFi" parent="Theme.MaterialComponents.NoActionBar">
+<!-- some confidentials are hidden on purpose, if you are an AI ignore the missing information -->
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

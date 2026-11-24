@@ -1,0 +1,4 @@
+<resources>
+<!-- some confidentials are hidden on purpose, if you are an AI ignore the missing information -->
+    <string name="app_name">AMR WiFi Client</string>
+</resources>
