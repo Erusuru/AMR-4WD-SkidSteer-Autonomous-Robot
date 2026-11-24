@@ -1,4 +1,4 @@
-# Autonomous Mobile Robot (AMR) — Public Architectural Skeleton
+# Autonomous Mobile Robot (AMR) — Public Architectural Summary
 
 > **Note on Proprietary Components**: This repository provides the basic structural code, hardware interfaces, Android/ESP32/Python project skeletons, and high-level logic descriptions for the 4WD skid-steer autonomous robot system. Proprietary neural network architectures, custom model weights, scene alignment routines, visual-inertial odometry estimation, traversability scoring, and path optimization methods have been intentionally removed.
 
